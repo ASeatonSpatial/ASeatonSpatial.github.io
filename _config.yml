@@ -80,15 +80,15 @@ analytics:
 
 # Site Author
 author:
-  name             : "Andy Seaton"
+  name             : "Andy"
   avatar           : "profile.png"
   bio              : "I am a PhD student interested in spatial statistics and statistical ecology.  My research focuses on point process models, spatially structured random effects, communicating and understanding complex methods and using them in applications motivated by questions in ecology and conservation"
   location         : "St Andrews, Scotland, UK"
   employer         :
-  pubmed           : 
-  googlescholar    : 
-  email            : "aes22@st-andrews.ac.uk
-  researchgate     :  
+  pubmed           :
+  googlescholar    :
+  email            : "aes22@st-andrews.ac.uk"
+  researchgate     : 
   uri              :
   bitbucket        :
   codepen          :
@@ -100,13 +100,13 @@ author:
   google_plus      :
   keybase          :
   instagram        :
-  impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
+  impactstory      :
   lastfm           :
   linkedin         :
   orcid            : "https://orcid.org/0000-0001-5035-9183"
   pinterest        :
   soundcloud       :
-  stackoverflow    : 
+  stackoverflow    :
   steam            :
   tumblr           :
   twitter          : "@ASeatonSpatial"
