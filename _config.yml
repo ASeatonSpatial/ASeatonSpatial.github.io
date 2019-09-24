@@ -81,7 +81,7 @@ analytics:
 # Site Author
 author:
   name             : "Andy"
-  avatar           : "/images/andyprofile.jpg"
+  avatar           : "andyprofile.jpg"
   bio              : "I am a PhD student interested in spatial statistics and statistical ecology.  My research focuses on point process models, spatially structured random effects, communicating and understanding complex methods and using them in applications motivated by questions in ecology and conservation"
   location         : "St Andrews, Scotland, UK"
   employer         :
