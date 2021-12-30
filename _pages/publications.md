@@ -11,6 +11,7 @@ author_profile: true
 
 ## Peer-reviewed papers
 
-Miller, D.L., Glennie, R., <strong>Seaton, A.E.</strong> (2019) <br /> 
+Miller, D.L., Glennie, R., <strong>Seaton, A.E.*</strong> (2019) <br />
+<strong>* Joint first author <strong> <br /> 
 <a href="https://link.springer.com/article/10.1007/s13253-019-00377-z">&quot;Understanding the Stochastic Partial Differential Equation Approach to Smoothing&quot; </a><br/>
 <em>Journal of Agricultural, Biological and Environmental Statistics</em>

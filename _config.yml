@@ -10,7 +10,7 @@ locale                   : "en-UK"
 title                    : "Andy Seaton"
 title_separator          : "-"
 name                     : &name "Andy Seaton"
-description              : &description "PhD student at University of St Andrews, UK studying spatial statistics with applications in ecology"
+description              : &description "Statistical ecologist, Postdocotoral researcher at the University of Glasgow"
 url                      : https://aseatonspatial.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "aseatonspatial.github.io"
@@ -82,12 +82,12 @@ analytics:
 author:
   name             : "Andy Seaton"
   avatar           : "andyprofile.jpg"
-  bio              : "Statistics PhD student at the University of St Andrews"
-  location         : "St Andrews, Scotland, UK"
+  bio              : "Statistics Postdoctoral researcher at the University of Glasgow"
+  location         : "Glasgow, Scotland, UK"
   employer         :
   pubmed           :
   googlescholar    :
-  email            : "aes22@st-andrews.ac.uk"
+  email            : "Andrew.Seaton.2@Glasgow.ac.uk"
   researchgate     : 
   uri              :
   bitbucket        :
