@@ -7,5 +7,6 @@ redirect_from:
   - /resume
 ---
 
-I am currently updating my CV.  It will appear here in the near future.
+A pdf of my CV can be downloaded <a href="https://aseatonspatial.github.io/files/2021_Aug_CV.pdf">here</a>
+Last updated August 2021
 {% include base_path %}
