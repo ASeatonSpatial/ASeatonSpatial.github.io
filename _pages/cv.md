@@ -8,5 +8,6 @@ redirect_from:
 ---
 
 A pdf of my CV can be downloaded <a href="https://aseatonspatial.github.io/files/2021_Aug_CV.pdf">here</a>
+
 Last updated August 2021
 {% include base_path %}
